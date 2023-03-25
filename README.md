@@ -16,8 +16,8 @@ You will need to:
 
 ## Clone this repo
 ```bash
-git clone https://github.com/starknet-edu/deploy-cairo1-demo
-cd deploy-cairo1-demo
+git clone https://github.com/rajeebkm/deploy-cairo1-on-starknet.git
+cd deploy-cairo1-on-starknet
 ```
 
 ## Installing the Cairo one compiler
@@ -63,7 +63,7 @@ starknet --version
 ```
 
 ## Compile your contract using Cairo
-You can use [this smol demo contract](hello_starknet.cairo) to complete this test. It's a very basic event logger.
+You can use [this small demo contract](hello_starknet.cairo) to complete this test. It's a very basic event logger.
 
 From your terminal, in the folder you installed Cairo in
 ```bash
